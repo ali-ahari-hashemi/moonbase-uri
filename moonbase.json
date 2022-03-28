@@ -1,0 +1,18 @@
+{
+  "name":"Moonbase",
+  "symbol":"MBSE",
+  "description":"Building cool stuff",
+  "seller_fee_basis_points":3330,
+  "image":"https://assets.moonbase.com/user_upload_urn_moonbase_person_60cbb30e-7b2f-449a-ab48-ac6997548193_2c20bf.png",
+  "external_url":"https://moonbase.com/",
+  "attributes":[],
+  "collection": {
+    "name":"Moonbase",
+    "family":"Moonbase"
+  },
+  "properties": {
+    "files":[{"uri":"https://assets.moonbase.com/user_upload_urn_moonbase_person_60cbb30e-7b2f-449a-ab48-ac6997548193_2c20bf.png","type":"image/png"}],
+    "category":"image",
+    "creators":[]
+  }
+}
