@@ -13,6 +13,11 @@
   "properties": {
     "files":[{"uri":"https://assets.moonbase.com/user_upload_urn_moonbase_person_60cbb30e-7b2f-449a-ab48-ac6997548193_2c20bf.png","type":"image/png"}],
     "category":"image",
-    "creators":[]
+    "creators":[
+      {
+        "address": "b11wSvRzgB6dR6kcm48httfsrDfvKVjVD1ri9FmjwSM",
+        "share": 100
+      }
+    ]
   }
 }
